@@ -10,5 +10,17 @@
       "ban_member": false,
       "updated_at": 1789233701650
     }
+  },
+  "1549005870963236885": {
+    "1549005871445704876": {
+      "channel_id": "1549005871445704876",
+      "whitelisted_role_ids": [
+        "1549005870963236893"
+      ],
+      "give_role_id": "1549005870963236886",
+      "kick_member": false,
+      "ban_member": false,
+      "updated_at": 1792958460000
+    }
   }
 }
